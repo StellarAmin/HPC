@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-MSBuild"
+	BuildStamp="20251225-0920-Experimental"
+	Name="Waleeds-Laptop"
+	Generator="ctest-3.31.8"
+	CompilerName="C:/Program Files/Microsoft Visual Studio/2022/Professional/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/cl.exe"
+	CompilerVersion="19.44.35222.0"
+	OSName="Windows"
+	Hostname="Waleeds-Laptop"
+	OSRelease=" Professional"
+	OSVersion=" (Build 19045)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="5"
+	ModelName=""
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="28257"
+	TotalPhysicalMemory="16154"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2592"
+	>
+	<Testing>
+		<StartDateTime>Dec 25 23:20 Egypt Standard Time</StartDateTime>
+		<StartTestTime>1766697614</StartTestTime>
+		<TestList/>
+		<EndDateTime>Dec 25 23:20 Egypt Standard Time</EndDateTime>
+		<EndTestTime>1766697614</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
